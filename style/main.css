@@ -6,7 +6,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background: #fff;
+}
 nav {
     background: #282828;
 }
